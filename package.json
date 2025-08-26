@@ -1,7 +1,7 @@
 {
   "name": "convitecasamento",
   "version": "0.1.0",
-  "homepage": "https://SEU_USUARIO.github.io/NOME_DO_REPOSITORIO",
+  "homepage": "https://jeanlucasde.github.io/vaquinha-hadolfo/",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "private": true,
