@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vaquinha-hadolfo/static/css/main.4469ba62.css",
-    "main.js": "/vaquinha-hadolfo/static/js/main.7682169c.js",
-    "static/media/hadolfo.jpg": "/vaquinha-hadolfo/static/media/hadolfo.3b0d3b5f24d87c84ed0b.jpg",
-    "index.html": "/vaquinha-hadolfo/index.html",
-    "main.4469ba62.css.map": "/vaquinha-hadolfo/static/css/main.4469ba62.css.map",
-    "main.7682169c.js.map": "/vaquinha-hadolfo/static/js/main.7682169c.js.map"
+    "main.css": "/static/css/main.dc27543d.css",
+    "main.js": "/static/js/main.0c58b7c3.js",
+    "static/media/hadolfo.jpg": "/static/media/hadolfo.3b0d3b5f24d87c84ed0b.jpg",
+    "index.html": "/index.html",
+    "main.dc27543d.css.map": "/static/css/main.dc27543d.css.map",
+    "main.0c58b7c3.js.map": "/static/js/main.0c58b7c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.4469ba62.css",
-    "static/js/main.7682169c.js"
+    "static/css/main.dc27543d.css",
+    "static/js/main.0c58b7c3.js"
   ]
 }
