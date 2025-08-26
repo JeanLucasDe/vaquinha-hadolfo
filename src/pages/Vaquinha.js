@@ -37,6 +37,7 @@ export default function Vaquinha() {
                   cidade="SALVADOR"
                 />
             </div>
+            <p className={styles.text_bottom}>&copy; site criado por <a className={styles.link} href="https://www.instagram.com/jeanlsantoss/" target="_blank">Jean Lucas</a></p>
         </div>
       </div>
     </div>

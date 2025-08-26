@@ -115,3 +115,10 @@
   padding: 4px 0;
   color: #555;
 }
+.link {
+  color: blue;
+  text-decoration: underline;
+}
+.text_bottom {
+  text-align: center;
+}
