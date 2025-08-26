@@ -1,4 +1,4 @@
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import Login from "./pages/Login";
 import Vaquinhas from "./pages/Vaquinhas";
 import VaquinhaForm from "./pages/VaquinhaForm";
@@ -13,10 +13,10 @@ export default function App() {
   if (loading) return <p>Carregando...</p>;
 
   return (
-    <HashRouter>
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<Vaquinha/>} />
       </Routes>
-    </HashRouter>
+    </BrowserRouter>
   );
 }
