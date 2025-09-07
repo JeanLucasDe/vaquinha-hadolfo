@@ -6,9 +6,11 @@
   background: #fff;
   border-radius: 16px;
   width: 100%;
-  max-width: 320px;
+  text-align: center;
 }
-
+.content {
+  width: 100%;
+}
 .title {
   font-size: 1.25rem;
   font-weight: bold;
@@ -27,6 +29,7 @@
 }
 
 .qrcode {
+  margin-top: 3em;
   margin-bottom: 12px;
   border-radius: 8px;
 }
@@ -38,5 +41,35 @@
   text-align: center;
   box-shadow: 0 8px 16px rgba(0,0,0,0.15);
   padding: .5em;
+  cursor: pointer;
+}
+.line {
+  width: 100%;
+  background-color: #666;
+  height: 1px;
+
+}
+.cont_form {
+  width: 100%;
+  position: relative;
+}
+.label {
+  text-align: left !important;
+  font-weight: bold;
+  margin-bottom: .5em;
+}
+.sub_label {
+  color: #666;
+  text-align: left;
+}
+.checkbox {
+  bottom: 0;
+  left: 0;
+}
+.clearBtn {
+  display: block;
+  margin: .4em auto;
+  padding: .6em;
+  border: none;
   cursor: pointer;
 }

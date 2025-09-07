@@ -16,6 +16,7 @@
   box-shadow: 0 12px 24px rgba(0,0,0,0.2);
   display: flex;
   align-items: center;
+  justify-content: center;
    font-family: "Epunda Sans", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
